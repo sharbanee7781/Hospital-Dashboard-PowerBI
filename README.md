@@ -34,3 +34,7 @@ This dashboard empowers hospital management to:
 - Assess waiting time performance and patient satisfaction.
 - Analyze patient demographics and referral patterns.
 - Make data-driven decisions to improve operational efficiency.
+
+## 🖼️ Dashboard Preview
+
+![Hospital ER Dashboard Overview](Hospital_Dashboard_Image)
