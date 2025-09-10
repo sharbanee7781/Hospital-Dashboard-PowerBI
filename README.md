@@ -37,4 +37,4 @@ This dashboard empowers hospital management to:
 
 ## 🖼️ Dashboard Preview
 
-![Hospital ER Dashboard Overview](Hospital_Dashboard_Image)
+![Hospital ER Dashboard Overview](Hospital_Dashboard_Image.png)
