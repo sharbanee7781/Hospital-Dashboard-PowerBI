@@ -37,4 +37,4 @@ This dashboard empowers hospital management to:
 
 ## 🖼️ Dashboard Preview
 
-![Hospital ER Dashboard Overview](Power BI Hospital Snip.png)
+![Hospital Dashboard Overview](https://github.com/sharbanee7781/Hospital-Dashboard-PowerBI/blob/main/Power%20BI%20Hospital%20Snip.png)
